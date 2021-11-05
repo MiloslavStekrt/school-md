@@ -1,0 +1,18 @@
+## Obchodní banky
+- vždy právnické osoby
+- minimální vklad 500 milionů korun
+- ziskem jsou úroky z úvěru, poplatky za služby
+- klienti jsou domacnosti a firmy
+
+## Bankovní operace 
+- pasivní - banka přijíma vklady a je v dlužnické pozici
+  - vklady z hlediska měny
+    - korunové - v korunách
+    - demisové - v cizích měnách
+  - vklady netermínované(nízký úrok), vklady termínované(vysoký úrok)
+  - vklady od jiných zdrojů než občanů a firem
+    - úvěry od ČNB (České Národní Banky)
+      - lombardní (zástava cenných papíru)
+      - nouzový úvěr (vysoké sankce)
+      - refinanční operace
+    - úvěry od ostatních bank
