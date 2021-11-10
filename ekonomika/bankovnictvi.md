@@ -107,7 +107,7 @@ equa bank
   - Karolinská 661/4, 186 00 Praha 8
   - Petr Řehák
   - 20.9. 2011 - vstup na český trh
-  - 
+  -
 </div>
 
 <!-- 18.10 -->
@@ -146,7 +146,7 @@ equa bank
 ## Bankovní služby
 - základání a vedení účtu
 - bezhotovostní platební styk domácí i zahraniční
-- další platební možnosti - platební karty, šeky, 
+- další platební možnosti - platební karty, šeky,
 - homebanking - kontrola účtu z pohodlí domova
 - směnárnická činnost
 - devizové operace: provádí se bezhotovostí bankovní styk v cizích měnách
