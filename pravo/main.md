@@ -87,14 +87,16 @@ Práví nauka
         - zrušení spoluvlastnictví
 
 ### Dědění
-- zůstavatel: mirající, musí zemřít
-- nepomynutelný dědic: děti vlastní nebo osvojené, lze je vidědit pouze z legitivních důvodů
+- zůstavatel: umirající, musí zemřít
+- nepomynutelný dědic: děti vlastní nebo osvojené, 
+    - lze je vidědit pouze z legitivních důvodů
 - dědická nezpůsobylost: muýeposkytnout kohokoliv, z vážných důvodů 
 - dědická smlouva: nelze dědit celý majetek
-- závěť: forma závěti: písemná podepsá, datum, v elektronické podobě je třeba dvou svědků
+- závěť: forma závěti: písemná podepsá, datum, 
+    - v elektronické podobě je třeba dvou svědků
 - dědění se zákona: 6 dedících skupin
-    - rozhodující - děti, manžel-manželka (rovným dílem)
-            - příbuzní, sourozenci 
+    - rozhodující - děti, manžel-manželka (rovným dílem) - příbuzní, sourozenci 
+
 - důvod odstopení: neposkytuje pomoc v nouzi
 
 ## závazky (realativní majetková práva)
