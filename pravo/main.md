@@ -62,6 +62,60 @@ Práví nauka - smlouvy, závěti neplatnost:
     - přes internet
 
 
+----
+
+1. zastupuje podnikatele (rozsahlé pravomoci - částečná plná moc)
+
+2. mají nějakou hodnotu - majitel má právo na určité plnění, akcie - dluhopisy - směnka - šek
+
+3. rozpor se zákonem, nátlak na podepisovatele, nedostatek věku, psychologická nezpůsobylost
+
+- promlčení práva
+4. pravo nezaniká ale je obtížně vymahatelné v obdobý 3. roku
+
+- věcná břemena
+5. 
+
+- vytržení vlastnického práva
+6. 
+
+----
+
+- omezení vlastnických práv (zástavní právo)
+
+# zajištění závazků
+- vznikl na základě smlouvy
+- oboustraná dohoda
+    - dodavatel musí dodat předmět objednaný
+    - zákazník musí zaplatit za předmět
+
+## zástavní právo
+1. role zajišťovací, preventivní
+2. role uhrazovací
+
+### zajištění - metody
+1. smluvní pokuta 
+4. ručení
+    - do vztahu věřitel a dlužník vstupuje třetí osoba ručitel, který je 
+    povinnen zaplatit i když neuzavřel žádnou smlouvu
+5. srážky ze mzdy
+    - částka která je odvedena jeli to nutný
+
+## Smlouvy způsobující nabytí vlastnictví
+- darovací smluva
+    - darce a obdarovaný obje strany s tím musí souhlasit
+    - písemná verze, v případě při předání daru uplyne určitý čas
+    - problem může nastav v případě vrácení daru
+        - dárce požaduje vrácení daru - převážně ne
+        - obdarovaný - trojský dar
+- směnná smlouva
+    - obdoba kupní smlova
+    - vyměna předmětu (ne peněz) za jiný předmět
+
+
+
+
+
 
 
 
