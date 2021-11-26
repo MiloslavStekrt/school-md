@@ -111,8 +111,36 @@ předepsané
     - pojištění nemovitostí
     - dpovědnost za škodu (pojištěný ISA, povinné ručení) - pojištštění požkozov= nahurul škody které mu způsobil pojištěný
     - pojištění rekreačních plavidel nbo pojištění záruky
+5. cestovní pojištění a asistenční služby
+6. pojištění podnikatele a průmyslu
+    - souhrné pojištení majetku
+    - pojištění elektroniky
+    - pojištění strojů
+    - pojištění stavební a montažních
+    - pojištění zásilek
+    - pojištění nákladů 
+    - pojištění přerušení provozu
+    - pojištění letadel
+    - pojištění odpovědnosti za škodu způsobenou provozovní činnosti a vadou výrobku
+    - pojištění odpovědnosti autodopravce
+    - pojištění záaruky pro případ úpadku cestovní kalendáře
+### Pojišťovny
+- zákonné pojištění
+    - VZP
+    - vojenská zdrávotní pojištění
+    - metal-aliance
+    - oborová zdravotní pojištění
+    - česká průmyslová pojišťovna 
+    - ministerstva vnitra
 
-
+- Komereční pojištění
+    - aliance
+    - AXE
+    - česká pojišťovna generali
+    - IMG
+    - UNIQA
+    - kooperativní
+    - wusteneot
 
 
 

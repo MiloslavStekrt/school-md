@@ -112,6 +112,48 @@ Práví nauka - smlouvy, závěti neplatnost:
     - obdoba kupní smlova
     - vyměna předmětu (ne peněz) za jiný předmět
 
+## Smyslem kupní smlouvy
+- převod vlastnictví
+- v případě nemovitostí je smlouva písemná
+- obecně se vlastnictví nabývá při uzavření smlouvy, předáním předmětu, případně v jiném okamžiku jak je dohodnuto 
+(např. po zaplacení)
+- obecně k přechodu vlastnicví po zápisu do veřejného seznamu, pokud je zapis vyžadován (nemovitostí)
+- podstatou koupení smlouvy je kupní cena
+
+----
+
+cena obvyklá
+př.: cena bude obvyklá v mistě a době prodeje
+
+----
+
+- nároky z vad - je třeba uplatnit co nejdříve po jejich zjištění 
+    - jinak by mohl prodavající namítnut že podmínky pro reklamaci nejsou splněny
+- kupní smlouv uzavřena v obchodě
+    - v případě v obchodě předmět fungovat musí
+    - zákonná záruka
+    - prodávající odpovída za vady způsobené před prodejem (skryté vady)
+## Záruka
+- ze zákona je stanovena záruková doba stanovena na 2 roky
+
+### Zákon na ochranu spotřebytele
+- stanovuje čas během, kterého muže prodávající zjistit zda je reklamace opravněna či nikoliv (30 dni)
+
+
+- kupující je zvýhodně během prvních 6 měsíců se předpokládá, že vada vznikla ze strany prodávajícího
+- zákon řeší i odstup od smlouvy při opakovaní stejné vady
+- ani záruka se nevztahuje na vody které vznikly opotřebení věci
+
+
+## smlouva o dílo
+
+
+
+
+
+
+
+
 
 
 
