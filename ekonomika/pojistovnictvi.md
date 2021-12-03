@@ -142,6 +142,51 @@ předepsané
     - kooperativní
     - wusteneot
 
+## životní pojištení a penzijní připojištění
+Životní pojištění a pnezijní připojištšní patří mezi dobrovolná pojištění a jsou uzavírána
+na komerční bázi. Životní pojištění může být spolu s penzijní pojištšní se státním příspšvkem jedním z pilířů
+socialního a důchodového zabezpečení. Včas sjednané životní pojištění se stane v budoucnu důležitým doplňkovem
+důchodu ze statního důchodového zabezpečení a pomůže v situaci, kdy podíl aktivního obyvatelstva se snižuje
+a sále méně lidí pracuje pro zabezpečení těch, kteří již pracovat nebudou. Tímto pojištěním se sníží i stávající
+nevyhovující poměr mezi průměrnou mzdou a průměrným důchodem.
+
+### Životní pojištění
+- 1. ledna 2001 vstoupila v platnost významná zákonná ustavení o daňových výhodách pro fyzické osoby, které uzavřou své soukromé
+životnípojištění, a také pro zaměstnavatele, kteří svým zaměstnancům na toto jejich pojištšní příspěji.
+    - Daňové výhody se týkají: 
+        - pojištění pro případ dožití
+        - pojištění pro případ smrti nebo dožití
+        - důchodové pojištění
+- Daňové výhody jsou podmínky tím, že výplata pojistného plnění nastane nejdříve po 60 kalendářních měsících trvání
+ pojištění a současně nejdříve v kalendářním roce dožití věku 60 let.
+
+### Penzijní připojištění a spoření
+- Penzijní připojištění je dobrovolné a nabízejí ho penzijní fondy. Stát přidává ke vkladům statní příspěvek.
+Vklady jsou úročené. 1. ledna 2000 vstoupila v platnost zákonná ustanovení o daňových výhodách, které se vztahují na 
+všechny smlouvy o penzijním připojištění. Od roku 2013 lze uzavřít doplňkové penzijní spoření (tzv. II: pilíř) - 
+i zde může zaměstnanci přispívat jeho zaměstnavatel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

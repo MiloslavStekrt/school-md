@@ -146,10 +146,13 @@ př.: cena bude obvyklá v mistě a době prodeje
 
 
 ## smlouva o dílo
-
-
-
-
+- co může být předmětem? 
+    - smlova o zhotovení věci (stůl, barák)
+    - nějaké služby kontrola, revize
+    - se může týka i nehmotného plnění (dílo nehmotným výsledkem)
+- v případě smlovy o dílo existuje součinost mezi objednatelem a zhotovitilem
+- cena je buď konečná nebo předběžná
+- kontrolní den - termín kdy si odběratel může zkontrolovat stav objednávky
 
 
 
