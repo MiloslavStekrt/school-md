@@ -155,6 +155,33 @@ př.: cena bude obvyklá v mistě a době prodeje
 - kontrolní den - termín kdy si odběratel může zkontrolovat stav objednávky
 
 
+## Legální užívání cizí věci
+1. běžné/obvyklé způsoby
+    - výpůjčka - věci tzv. jednotlivě určených (sousedská půjčka)
+    - půjčka (zápůjčka) - věci tzv. hromadně určené (peníze) - může být za úhradu
+    - úvěr - obdoba půjčky - odměna vždy
+
+### nájem
+- běžný/obecný nájem - židle, domu, auta 
+    - povinosti nájemce - uživat předmět jak je obvyklý
+    - pronajímatel - tak aby předmět byl ve správném stavu
+
+- nájem bytu
+    - můsí být písemná, delka trvání
+    - nájemce musí dát výpověď
+    - pronajimatel musí dát vědět předem neplacení nájmu
+
+- přechodn nájmu bytu
+    - mění se se osoba nájemce
+
+- pronájem nebytových prostor (sloužící k podnikání)
+    - smlouva musí být písemná
+    - musí být na dobu určitou/neurčitou
+    - neurčitou - výpověď lze dát kdykoliv bez udání důvodu pokud se nedohodnou jinak
+    - určitou - výpověď lze dát pouze ze zákoných důvodu
+
+2. Méně obvyklé
+
 
 
 
