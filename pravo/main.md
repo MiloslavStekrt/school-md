@@ -160,8 +160,9 @@ př.: cena bude obvyklá v mistě a době prodeje
     - výpůjčka - věci tzv. jednotlivě určených (sousedská půjčka)
     - půjčka (zápůjčka) - věci tzv. hromadně určené (peníze) - může být za úhradu
     - úvěr - obdoba půjčky - odměna vždy
+2. Méně obvyklé
 
-### nájem
+### nájem (1)
 - běžný/obecný nájem - židle, domu, auta 
     - povinosti nájemce - uživat předmět jak je obvyklý
     - pronajímatel - tak aby předmět byl ve správném stavu
@@ -180,14 +181,24 @@ př.: cena bude obvyklá v mistě a době prodeje
     - neurčitou - výpověď lze dát kdykoliv bez udání důvodu pokud se nedohodnou jinak
     - určitou - výpověď lze dát pouze ze zákoných důvodu
 
-2. Méně obvyklé
+- podnikatelský nájem movitých věcí
+    - pronajímatel je poviden poskytnout věcí, který se očekávájí
 
+- nájem dopravního prostředku
+    - lízink operativní (běžný nájem - předměd se vrací pod dokončení služby)
+    - lízink finanční (po ukončení se vrací zpět)
 
+----
+(4.) Zkoušení na příští týden
+----
 
+smlouvy, ktere se týkali nabývání vlastnictví
+legalní používání cizí věci - vypujčka, výměnek
+zajištění závazku - zajištění závazku aby byl splněn, sankce, ručení
 
-
-
-
+----
+počátek důchodu - konec 19 století
+----
 
 
 
