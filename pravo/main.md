@@ -198,7 +198,53 @@ zajištění závazku - zajištění závazku aby byl splněn, sankce, ručení
 
 ----
 počátek důchodu - konec 19 století
+
 ----
+
+ [28. Jan]
+## Bankovnictví smlouvy
+- jsou smlouvy který uvádí převážně banky
+
+---
+smlouvy o půjčce a úvěru
+
+---
+
+### mezi bankovní smlouvy patří: 
+#### smlouva o účtu
+#### smlouva o vkladni knížce - pouze na jmeno
+
+- v minulosti to bylo i na doručitele
+vázano s tím že osobě stačilo přinest knížku
+a tam se jen odečetla částka
+
+--- 
+
+#### smlouva o otevření akreditivu
+- klient si do banky vloží určitou částku a výplatí to třetí osobě, která předloží 
+dokument, který je uveden ve smlouvě
+
+#### smlouva o inkasu
+- výbere peníze od nikoho pro někoho
+
+#### smlouva o uskově věci
+- uschovat cenný papíry, šperky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
