@@ -12,7 +12,22 @@
     - označení učastníku
     - datum uzavření
     - podpis
-- obsahuje
+- obsahuje nutná naležitost
+
+```
+
+17. června 2022
+
+```
+    - druh práce
+    - den nástupu
+    - místo výkonu práce
+- další údaje
+    - mzda
+    - typ práce (neurčita/určitou dobu)
+        - omezeno opakování
+    -
+
 
 
 
